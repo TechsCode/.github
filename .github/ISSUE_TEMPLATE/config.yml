@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+    - name: Support Discord
+      url: https://discord.gg/3JuHDm8
+      about: Join the Discord to get help and support!
+    - name: GitHub Organization
+      url: https://github.com/TechsCode-Team
+      about: Check out our organization on GitHub!
