@@ -1,4 +1,8 @@
-# TechsCode Minecraft Plugins
+<p align="center">
+  <img src="https://techscode.com/static/media/TechsCodeLogoLight.e77fa8d227639ee00b30.png" width="400">
+</p>
+
+---
 
 Welcome to the TechsCode Minecraft Plugins GitHub organization! We are a team of volunteers dedicated to developing high-quality Minecraft plugins aimed at enhancing server customization and improving player experiences.
 
