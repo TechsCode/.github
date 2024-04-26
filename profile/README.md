@@ -28,6 +28,9 @@ Insane Shops is the Ultimate Shops Plugin, enabling your players to create inter
 ### [Insane Vaults](https://insanevaults.com/)
 Insane Vaults is the most innovative Item Storage Plugin, fully controllable via GUIs & Commands. Customize vault types, share accesses, blacklist items, and extend inventory space with unique features like recurring costs.
 
+### [Insane Announcer](https://insaneannouncer.com/)
+Insane Announcer is the easiest to use Chat Announcer that can be fully configured with GUIs. You can create Message Groups to send messages randomly, show them via Titles & Actionbar and even play sounds on delivery.
+
 ## About TechsCode
 
 TechsCode is a Minecraft Plugin development team consisting of volunteers dedicated to producing quality plugins to customize Minecraft servers and improve player experience. Currently, we are working on a major improvement to the core of our plugins, which will introduce a new way of storing data and improve performance by at least 20%.
