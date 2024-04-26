@@ -40,3 +40,7 @@ Insane Announcer is the easiest to use Chat Announcer that can be fully configur
 TechsCode is a Minecraft Plugin development team consisting of volunteers dedicated to producing quality plugins to customize Minecraft servers and improve player experience. Currently, we are working on a major improvement to the core of our plugins, which will introduce a new way of storing data and improve performance by at least 20%.
 
 For more information, visit our website: [TechsCode.com](https://techscode.com/)
+
+---
+
+[Terms of Service](https://techscode.com/terms-of-service)
